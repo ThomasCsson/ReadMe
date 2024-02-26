@@ -1,5 +1,5 @@
 ### Hi there 👋
-I am currently a student in the second year of my bachelors in chemsitry & chemical engineering at the Swiss Federal Insitute of Technology (EPFL) in Lausanne and will be finishing my bachelors at the Norwegian University of Science and Technology (NTNU) in Trondheim specialising in chemical engineering.
+I am currently a student in the second year of my bachelors in chemsitry & chemical engineering at the Swiss Federal Insitute of Technology (EPFL) in Lausanne and I will be finishing my bachelors at the Norwegian University of Science and Technology (NTNU) in Trondheim specialising in chemical engineering.
 
 You may reach me via my email account: thomas.christiansson@epfl.ch
 
