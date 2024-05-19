@@ -1,5 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+there,;welcome+to+my+GitHub+account!)](https://git.io/typing-svg)
 
+   ![visitors](https://visitor-badge.laobi.icu/badge?page_id=ThomasCsson.ThomasCsson/ThomasCsson)
+
 I am currently a student in the second year of my bachelors in chemsitry & chemical engineering at the Swiss Federal Insitute of Technology (EPFL) in Lausanne and I will be finishing my bachelors at the Norwegian University of Science and Technology (NTNU) in Trondheim specialising in chemical engineering.
 
 You may reach me via my email account: thomas.christiansson@epfl.ch
