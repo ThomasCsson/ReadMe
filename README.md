@@ -2,7 +2,7 @@
 
 I am currently in my third year of my bachelor's in Chemistry and Chemical Engineering at the École Polytechnique Fédérale de Lausanne (EPFL). For this final year, I'm broadening my academic and cultural horizons through an exchange program at the Norwegian University of Science and Technology (NTNU) in Trondheim, where I'm continuing my studies and specialising in chemical engineering.
 
-You may reach me via my email account: thomas.christiansson@epfl.ch
+You may reach me via my email account: thomas.christiansson@epfl.ch or thomasvc@stud.ntnu.no
 
 
 <!--
